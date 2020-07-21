@@ -6,3 +6,10 @@
     * Typecasting
     * Conditional Statement
     * Loops
+2. [Day 2](https://github.com/CoderToCode/100DaysofML/blob/master/Day002.ipynb)
+    * Python Functions
+    * Function arguments
+    * Default parameters
+    * Global Variables
+    * Installing mOdules and Packages with PiP
+    * Common errors
