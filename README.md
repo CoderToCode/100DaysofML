@@ -11,5 +11,5 @@
     * Function arguments
     * Default parameters
     * Global Variables
-    * Installing mOdules and Packages with PiP
+    * Installing modules and Packages with PiP
     * Common errors
