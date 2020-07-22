@@ -13,3 +13,10 @@
     * Global Variables
     * Installing modules and Packages with PiP
     * Common errors
+3. [Day 3](Day003.ipynb)
+    * Writing File
+    * Reading File
+    * Appending File
+    * Classes
+    * Objects
+    * Getting user Input
