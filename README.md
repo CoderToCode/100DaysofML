@@ -20,3 +20,10 @@
     * Classes
     * Objects
     * Getting user Input
+4. [Day 4](Day004.ipynb)
+    * Statistics (Mean, Standard Deviation)
+    * Creating Module
+    * List and Tuples
+    * List Manipulation
+    * Tuple Manipulation
+    * Multi Dimensional List
