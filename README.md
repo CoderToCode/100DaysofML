@@ -33,3 +33,9 @@
     * Built-in Funtions
     * Os Modules
     * Sys Modules
+6. [Day 6](Day006.ipynb)
+    * Reading from a CSV spreadsheet
+    * Try and Except error handling
+    * urllib module
+    * Matplotlib Styles
+    * Matplotlib legends
