@@ -39,3 +39,10 @@
     * urllib module
     * Matplotlib Styles
     * Matplotlib legends
+7. [Day 7](Day007.ipynb)
+    * Regular Expression
+    * Parsing URL with RE and urllib
+    * Matplotlib labels and titles
+    * Matplotlib Scatter plot
+    * Matplotlib Bar chart
+    * Matplotlib Plotting from CSV
