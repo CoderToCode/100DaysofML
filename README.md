@@ -46,3 +46,14 @@
     * Matplotlib Scatter plot
     * Matplotlib Bar chart
     * Matplotlib Plotting from CSV
+8. [Day 8](Day008.ipynb)
+    * Converting Python 2 to Python 3 automatically!
+    * Sqllite3 connection
+    * Creating table
+    * Inserting value
+    * Inserting values using variables
+    * Reading all data
+    * Reading specific data
+    * Plotting graph from the database value
+    * Updating the database table
+    * Deleting data from database
