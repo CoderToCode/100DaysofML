@@ -57,3 +57,10 @@
     * Plotting graph from the database value
     * Updating the database table
     * Deleting data from database
+9. [Day 9](Day009.ipynb)
+    * Getting Window
+    * Screen
+    * Adding image
+    * Music
+    * Colors
+    * Game loop
