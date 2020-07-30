@@ -64,3 +64,15 @@
     * Music
     * Colors
     * Game loop
+10. [Day 10](Day010.ipynb)
+    * Tkinter - Making Window
+    * Tkinter - Adding Button
+    * Tkinter - Event Handling
+    * Tkinter - Menu Bar
+    * Tkinter - Adding image and text
+11. [Day 11](Day011.ipynb)
+    * Socket intro
+    * Socket simple port scanner
+    * Threaded port scanner
+    * Socket Binding and listening
+    * Sockets: Client and system
