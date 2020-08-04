@@ -99,3 +99,9 @@
     * Render Template
     * Layout
     * Bootstrap
+16. [Day016](Day016.py)
+    * Flask - Form
+    * Redirecting
+    * Validators
+    * url_for
+    * Flash messages
