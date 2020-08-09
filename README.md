@@ -111,3 +111,6 @@
 18. [Day018](/flaskblog)
     * Converting the file to packages
     * Intergrating the packages
+19. [Day019]()
+    * Flask - User Authentication
+    * Login Manager
