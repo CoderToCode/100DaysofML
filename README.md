@@ -118,4 +118,4 @@
     * Flask Blog application user information update module
     * Adding profile picture
 21. [Day021](Day021.py)
-    * Flask Blog - Create, update, Delete post.
+    * Flask Blog - Create, update, Delete posts.
